@@ -1,0 +1,17 @@
+{
+  "singleQuote": true,
+  "trailingComma": "es5",
+  "printWidth": 128,
+  "tabWidth": 2,
+  "semi": true,
+  "arrowParens": "avoid",
+  "bracketSpacing": true,
+  "endOfLine": "auto",
+  "jsxBracketSameLine": false,
+  "overrides": [
+    {
+      "files": ".prettierrc",
+      "options": { "parser": "json" }
+    }
+  ]
+}
